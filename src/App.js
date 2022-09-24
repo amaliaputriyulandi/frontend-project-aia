@@ -1,7 +1,4 @@
 import HeaderComponent from "./components/HeaderComponent";
-import InputComponent from "./components/InputComponent";
-import NavbarComponent from "./components/NavbarComponent";
-import PhotoComponent from "./components/PhotoComponent";
 import React, { Component } from 'react'
 import {API_URL} from './utils/constants'
 import axios from 'axios' 
