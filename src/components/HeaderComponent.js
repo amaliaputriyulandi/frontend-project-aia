@@ -5,7 +5,7 @@ const HeaderComponent = () => {
     return (
         <header>
             <h1>
-                Todo List
+                Pictures
             </h1>
         </header>
     )

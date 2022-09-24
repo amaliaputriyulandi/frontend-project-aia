@@ -13,6 +13,10 @@ const InputComponent = () => {
                         <input type="text" id="title" name="title" required></input>
                     </div>
                     <div class="form-group form-title">
+                        <label for="title">Masukkan deskripsi</label>
+                        <input type="text" id="description" name="description" required></input>
+                    </div>
+                    <div class="form-group form-title">
                         <label for="date">Masukkan tanggal harus selesai</label>
                         <input type="date" id="date" name="date" required></input>
                     </div>
